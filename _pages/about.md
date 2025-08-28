@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, welcome to my page :)
 
-I am a first year Ph.D. student at Khoury School of Computer Sciences at Northeastern University advised by Prof. Varun Mishra. My research interests are in using Machine Learning and Human-Computer Interaction techniques to build “behavior-aware” intelligent systems in healthcare space.
-
+I am a third year Ph.D. student at the Khoury School of Computer Sciences at Northeastern University advised by Prof. Varun Mishra.
+My overarching research interest lies in developing Machine Learning and Artificial Intelligence systems that are more "behavior-aware"—capable of understanding users on a deeper level and supporting more personalized experiences. Currently, I focus on building human-centered AI and ML systems that use passive sensing data from phones and wearables to understand behavior patterns and generate meaningful health & well-being insights. My goal is to personalize these insights so it is accessible and actionable to a wide range of stakeholders—including behavioral researchers, psychologists, and individuals interested in health and wellbeing.
 
 Prior to this, I worked as a software engineer (ML) at Amazon Search working with natural language processing/machine learning models to understand customers' intents from search queries on Amazon website.
 
@@ -28,4 +28,8 @@ I hold a bachelor's degree in Computer Science and Engineering from the Indian I
 
 To learn more about me, here is my <a href="/assets/pdf/phd_cv.pdf">CV</a>.
 
-Currently, I live in Boston. In my spare time, I like to go on hikes, travel, read and write poems, and paint. Recently, I have been learning to mix drinks &#127864;
+Currently, I live in Boston. In my spare time, I like to workout, travel, read and write poems, paint, make cocktails. Lately, I’ve been learning to sailing ⛵
+
+
+
+I am looking for applied scientist/data scientist **internship opportunities** for **Summer 2026**. If you have an interesting opportunity, please reach out at **choube.a@northeastern.edu**.
