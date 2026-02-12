@@ -6,7 +6,7 @@ subtitle: PhD:<b>Northeastern University</b> | Grad:<b>USC</b> | Undergrad:<b>II
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_new.jpg
   image_circular: true # crops the image to make it circular
   address:
 
@@ -22,7 +22,7 @@ My overarching research interest lies in developing Machine Learning and Artific
 
 Prior to this, I worked as a software engineer (ML) at Amazon Search working with natural language processing/machine learning models to understand customers' intents from search queries on Amazon website.
 
-I graduated with an MS(Hons) in Computer Science from the University of Southern California. While, at USC, I was part of the <a href="https://somalab.usc.edu/about/">Social Media Analytics</a> lab and <a href="https://www.ihp-lab.org/">Intelligent Human Perception</a> lab. I worked on several research projects involving multimodal machine learning, affective computing, social media analysis, and dialogue systems.
+I graduated with an MS (Hons) in Computer Science from the University of Southern California. While, at USC, I was part of the <a href="https://somalab.usc.edu/about/">Social Media Analytics</a> lab and <a href="https://www.ihp-lab.org/">Intelligent Human Perception</a> lab. I worked on several research projects involving multimodal machine learning, affective computing, social media analysis, and dialogue systems.
 
 I hold a bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology (IIT) Palakkad.
 
