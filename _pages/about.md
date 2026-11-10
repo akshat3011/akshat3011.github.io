@@ -17,10 +17,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, welcome to my page :)
 
-I am a third year Ph.D. student at the Khoury School of Computer Sciences at Northeastern University advised by Prof. Varun Mishra.
-My overarching research interest lies in developing Machine Learning and Artificial Intelligence systems that are more "behavior-aware"—capable of understanding users on a deeper level and supporting more personalized experiences. Currently, I focus on building human-centered AI and ML systems that use passive sensing data from phones and wearables to understand behavior patterns and generate meaningful health & well-being insights. My goal is to personalize these insights so it is accessible and actionable to a wide range of stakeholders—including behavioral researchers, psychologists, and individuals interested in health and wellbeing.
+I am a fourth year Ph.D. student at the Khoury School of Computer Sciences at Northeastern University advised by Prof. Varun Mishra.
+My overarching research interest lies in developing Machine Learning and Artificial Intelligence systems that are more "behavior-aware"—capable of understanding users on a deeper level and supporting more personalized experiences. Currently, I focus on designing human-centered, multi-agent AI and ML systems that use passive sensing data from phones and wearables to understand behavior patterns and generate meaningful health & well-being insights. My goal is to personalize these insights so it is accessible and actionable to a wide range of stakeholders—including behavioral researchers, psychologists, and individuals interested in health and wellbeing.
 
-Prior to this, I worked as a software engineer (ML) at Amazon Search working with natural language processing/machine learning models to understand customers' intents from search queries on Amazon website.
+This fall (Sept–Dec 2026), I am a visiting researcher at Università della Svizzera italiana (USI), working with Prof. Silvia Santini in the People-Centered Computing Lab, supported by a ThinkSwiss scholarship. In Summer 2026, I was a Ph.D. AI Research Intern at Optum Labs (UHG), where I built a multi-agent system to automate post-training of LLMs in clinical settings.
+
+Prior to my Ph.D., I worked as a software engineer (ML) at Amazon Search working with natural language processing/machine learning models to understand customers' intents from search queries on Amazon website.
 
 I graduated with an MS (Hons) in Computer Science from the University of Southern California. While, at USC, I was part of the <a href="https://somalab.usc.edu/about/">Social Media Analytics</a> lab and <a href="https://www.ihp-lab.org/">Intelligent Human Perception</a> lab. I worked on several research projects involving multimodal machine learning, affective computing, social media analysis, and dialogue systems.
 
@@ -32,4 +34,4 @@ Currently, I live in Boston. In my spare time, I like to workout, travel, read a
 
 
 
-I am looking for applied scientist/data scientist **internship opportunities** for **Summer 2026**. If you have an interesting opportunity, please reach out at **choube.a@northeastern.edu**.
+I am looking for applied scientist/data scientist **internship opportunities** for **2027**. If you have an interesting opportunity, please reach out at **choube.a@northeastern.edu**.
