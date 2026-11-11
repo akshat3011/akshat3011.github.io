@@ -6,7 +6,7 @@ subtitle: PhD:<b>Northeastern University</b> | Grad:<b>USC</b> | Undergrad:<b>II
 
 profile:
   align: right
-  image: prof_pic_new.jpg
+  image: prof_pic_ubicomp.jpg
   image_circular: true # crops the image to make it circular
   address:
 
